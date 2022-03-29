@@ -2,7 +2,7 @@ fun main(){
  greetings("charity")
     division(23,5)
     add(24,16,12,8)
-    interesting("i like eating")
+    interesting("i like teching")
 }
 fun greetings(name: String){
     println("hello"+name)
